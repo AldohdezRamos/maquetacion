@@ -77,11 +77,7 @@ section#baloncesto {
 
 
 
-section#natacion {
-    background: url('imagenes/natacion-bg.jpg') no-repeat center center;
-    background-size: cover;
-    color: #fff;
-}
+
 .container {
     display: flex;
     flex-direction: row;
@@ -91,7 +87,7 @@ aside {
     width: 200px;
     padding: 20px;
     background-color: hsla(212, 63%, 54%, 0.961);
-    margin-left: 1300px;
+    margin-left: 1200px;
     margin-bottom: 20px;
 }
 main {
